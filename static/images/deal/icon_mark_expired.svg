@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_mark_expired_</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交易" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_mark_expired_">
+            <rect id="Rectangle" x="0" y="0" width="102" height="102"></rect>
+            <polygon id="Path-9" fill="#D9D9D9" points="0 0 43 0 102 59 102 102"></polygon>
+            <text id="到期失效" transform="translate(62.183766, 40.866486) rotate(45.000000) translate(-62.183766, -40.866486) " font-family="PingFang-SC-Regular, PingFang SC" font-size="20" font-weight="normal" fill="#FFFFFF">
+                <tspan x="22.1837662" y="47.8664863">到期失效</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

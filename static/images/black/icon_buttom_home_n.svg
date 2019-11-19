@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>icon_buttom_home_n</title>
+    <desc>Created with Sketch.</desc>
+    <g id="主页-黑色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_buttom_home_n" fill-rule="nonzero">
+            <rect id="Rectangle-12" x="0" y="0" width="40" height="40"></rect>
+            <polygon id="Combined-Shape" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="1 14 20 1 39 14 39 39 25 39 25 31 15 31 15 39 1 39"></polygon>
+            <path d="M14.5299989,12.8479983 C14.9983355,12.555288 15.1407086,11.9383376 14.8479983,11.4700011 C14.555288,11.0016645 13.9383376,10.8592914 13.4700011,11.1520017 L5.47000106,16.1520017 C5.1776197,16.33474 5,16.65521 5,17 L5,26 C5,26.5522847 5.44771525,27 6,27 C6.55228475,27 7,26.5522847 7,26 L7,17.5542476 L14.5299989,12.8479983 Z" id="Path-2" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

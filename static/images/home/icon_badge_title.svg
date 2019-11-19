@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="58px" viewBox="0 0 156 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_badge_title</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F5AE80" offset="0%"></stop>
+            <stop stop-color="#D93838" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32,2.75305189 L48.2487113,12.1342497 C50.7239199,13.5633121 52.2487113,16.2043282 52.2487113,19.062453 L52.2487113,37.8248487 C52.2487113,40.6829734 50.7239199,43.3239895 48.2487113,44.7530519 L32,54.1342497 C29.5247914,55.5633121 26.4752086,55.5633121 24,54.1342497 L7.75128869,44.7530519 C5.27608008,43.3239895 3.75128869,40.6829734 3.75128869,37.8248487 L3.75128869,19.062453 C3.75128869,16.2043282 5.27608008,13.5633121 7.75128869,12.1342497 L24,2.75305189 C26.4752086,1.32398953 29.5247914,1.32398953 32,2.75305189 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <path d="M32,6.75305189 L44.7846097,14.1342497 C47.2598183,15.5633121 48.7846097,18.2043282 48.7846097,21.062453 L48.7846097,35.8248487 C48.7846097,38.6829734 47.2598183,41.3239895 44.7846097,42.7530519 L32,50.1342497 C29.5247914,51.5633121 26.4752086,51.5633121 24,50.1342497 L11.2153903,42.7530519 C8.7401817,41.3239895 7.21539031,38.6829734 7.21539031,35.8248487 L7.21539031,21.062453 C7.21539031,18.2043282 8.7401817,15.5633121 11.2153903,14.1342497 L24,6.75305189 C26.4752086,5.32398953 29.5247914,5.32398953 32,6.75305189 Z" id="path-5"></path>
+    </defs>
+    <g id="主页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-8" transform="translate(-1.000000, 0.000000)">
+            <path d="M38,7 L134,7 C146.150264,7 156,16.8497355 156,29 L156,29 C156,41.1502645 146.150264,51 134,51 L38,51 C25.8497355,51 16,41.1502645 16,29 L16,29 C16,16.8497355 25.8497355,7 38,7 Z" id="Rectangle" fill="#FFBE00"></path>
+            <g id="Group-6">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Polygon" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Polygon" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                <g id="Group-4" mask="url(#mask-6)">
+                    <g transform="translate(3.556349, -1.000000)">
+                        <rect id="Rectangle" stroke="none" fill="#D32F2F" fill-rule="evenodd" transform="translate(33.000000, 16.000000) rotate(45.000000) translate(-33.000000, -16.000000) " x="28" y="-1" width="10" height="34"></rect>
+                        <rect id="Rectangle-Copy-2" stroke="none" fill="#F44336" fill-rule="evenodd" transform="translate(16.000000, 16.000000) scale(-1, 1) rotate(45.000000) translate(-16.000000, -16.000000) " x="11" y="-1" width="10" height="34"></rect>
+                        <circle id="Oval" stroke="none" fill="#F8E71C" fill-rule="evenodd" cx="24.4436508" cy="32.4436508" r="12"></circle>
+                        <circle id="Oval" stroke="#F5A623" stroke-width="2" fill="none" cx="24.4436508" cy="32.4436508" r="8"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

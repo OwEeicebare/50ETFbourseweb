@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>icon_buttom_personal_n</title>
+    <desc>Created with Sketch.</desc>
+    <g id="主页-黑色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_buttom_personal_n" fill-rule="nonzero">
+            <rect id="Rectangle-23" x="0" y="0" width="40" height="40"></rect>
+            <circle id="Oval-3" stroke="#FFFFFF" stroke-width="2" cx="20" cy="12" r="11"></circle>
+            <path d="M20,5 C16.1340068,5 13,8.13400675 13,12" id="Oval-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M1.25835151,37.8485164 C1.12384521,37.3963024 0.917485096,36.9173175 1.25835151,36.0023122 C4.08773106,28.4072628 11.4160756,23 20,23 C28.5801839,23 35.8984178,28.4030499 38.7379374,35.9923852 C39.1005302,36.9615064 39.0416957,37.7652097 38.7379374,38.3007304 C38.434179,38.8362511 37.8453209,39 36.9680175,39 C29.2798725,39 17.9548799,39 2.99303966,39 C2.14052479,39 1.39285782,38.3007304 1.25835151,37.8485164 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

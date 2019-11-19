@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_qurey_stopmoney</title>
+    <desc>Created with Sketch.</desc>
+    <g id="主页-黑色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_qurey_stopmoney">
+            <rect id="Rectangle" x="0" y="0" width="100" height="100"></rect>
+            <circle id="Oval" stroke="#FF787B" stroke-width="2" cx="50" cy="50" r="28"></circle>
+            <circle id="Oval" fill="#FF787B" opacity="0.200000003" cx="58" cy="56" r="28"></circle>
+            <path d="M52.4142136,46 L57,46 C57.5522847,46 58,46.4477153 58,47 C58,47.5522847 57.5522847,48 57,48 L51,48 L51,52 L57,52 C57.5522847,52 58,52.4477153 58,53 C58,53.5522847 57.5522847,54 57,54 L51,54 L51,60 C51,60.5522847 50.5522847,61 50,61 C49.4477153,61 49,60.5522847 49,60 L49,54 L43,54 C42.4477153,54 42,53.5522847 42,53 C42,52.4477153 42.4477153,52 43,52 L49,52 L49,48 L43,48 C42.4477153,48 42,47.5522847 42,47 C42,46.4477153 42.4477153,46 43,46 L47.5857864,46 L42.2928932,40.7071068 C41.9023689,40.3165825 41.9023689,39.6834175 42.2928932,39.2928932 C42.6834175,38.9023689 43.3165825,38.9023689 43.7071068,39.2928932 L50,45.5857864 L56.2928932,39.2928932 C56.6834175,38.9023689 57.3165825,38.9023689 57.7071068,39.2928932 C58.0976311,39.6834175 58.0976311,40.3165825 57.7071068,40.7071068 L52.4142136,46 Z" id="Combined-Shape" fill="#FF787B" fill-rule="nonzero"></path>
+            <path d="M10.0227724,31.5946559 C7.44043453,37.1943183 6,43.4289434 6,50 C6,62.1123023 10.8941414,73.0815166 18.8127573,81.0379762 M50,94 L50,94 C71.1948167,94 88.889492,79.0141135 93.0662087,59.060158 M86.1156173,24.8603483 C78.1647681,13.4594981 64.9535136,6 50,6 C44.4793115,6 39.1960952,7.01673926 34.327388,8.87318085" id="Shape" stroke="#FF787B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path" stroke="#FF787B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(36.960846, 7.960846) rotate(-336.000000) translate(-36.960846, -7.960846) " points="39.9608463 10.9608463 33.9608463 10.9608463 33.9608463 4.9608463 33.9608463 4.9608463"></polyline>
+            <polyline id="Shape" stroke="#FF787B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.674235, 77.674235) rotate(-345.000000) translate(-16.674235, -77.674235) " points="19.6742346 74.6742346 19.6742346 80.6742346 13.6742346 80.6742346"></polyline>
+            <polyline id="Path" stroke="#FF787B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(92.098076, 62.098076) rotate(-300.000000) translate(-92.098076, -62.098076) " points="89.0980762 65.0980762 89.0980762 59.0980762 89.0980762 59.0980762 95.0980762 59.0980762"></polyline>
+            <path d="M34.7636389,35.5481759 C31.1915244,39.3129699 29,44.400556 29,50 M29.5602876,54.8391801 C29.8662907,56.1366032 30.2926294,57.3875625 30.8268753,58.5796297 M63.7347404,65.8861927 C68.1846592,62.0355283 71,56.3465432 71,50 M70.8275611,47.2962752 C70.6806742,46.1534962 70.4419299,45.0394738 70.1189703,43.9618502" id="Shape" stroke="#FF787B" stroke-width="2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

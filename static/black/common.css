@@ -1,0 +1,326 @@
+@font-face{
+    font-family: Oswald;
+    src: url("../styles/Oswald-Regular.ttf")
+  }
+  
+  html { 
+    color: #fff; 
+    background-color: #222;
+  }
+  body{
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  /* 主颜色 */
+  .main-color1{
+    background-color: #ff787b;
+  }
+  .main-color2{
+    background-color: #3aaaff;
+  }
+  .main-color3{
+    background-color: #03c461;
+  }
+  .deal-bg-color{
+    background-color: rgba(37, 121, 211, 1);
+  }
+  
+  .tab-active-color {
+    color: #ff787b;
+  }
+  .copy-color{
+    color: #3aaaff;
+  }
+  
+  /* 副颜色 */
+  .assist-color1{
+    background-color: rgba(255, 120, 123, 0.2);
+  }
+  .assist-color2{
+    background-color: #e2f2ff;
+  }
+  .assist-color3{
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  .assist-color4{
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  .table-head{
+    background-color: #383838;
+  }
+  .line-color{
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  .alter-line-color{
+    color: #ebebeb;
+  }
+  .normal-border-color{
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  .normal-border{
+    border: 1px solid #ebebeb;
+  }
+  .deal-border{
+    border: 1px solid #3aaaff;
+  }
+  
+  .main-bg{
+    background-color: #222;
+  }
+  
+  /* 文字颜色 */
+  .main-text-color1{
+    color: #fff;
+  }
+  .main-text-color2{
+    color: rgba(255, 255, 255, 0.5);
+  }
+  .content-text-color{
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .table-text-color{
+    color: rgba(255, 255, 255);
+  }
+  .white-color{
+    color: #fff;
+  }
+  
+  .rise-color{
+    color:#ff464b;
+  }
+  .drop-color{
+    color: #03c461;
+  }
+  .rise-bg-color{
+    background-color: #ff464b;
+  }
+  .drop-bg-color{
+    background-color: #03c461;
+  }
+  
+  .font40{
+    font-size: 21px;
+  }
+  .font36{
+    font-size: 19px;
+  }
+  .font32{
+    font-size: 17px;
+  }
+  .font28{
+    font-size: 15px;
+  }
+  .font24{
+    font-size: 13px;
+  }
+  .font20{
+    font-size: 11px;
+  }
+  
+  /* 字体 */
+  .number-font{
+    font-family: Oswald;
+  }
+  
+  /* 间距 */
+  .normal-margin{
+    margin-bottom: 12px;
+  }
+  .normal-margin-top{
+    margin-top: 12px;
+  }
+  /* 内间距 */
+  .normal-padding{
+    padding: 10px;
+  }
+  .has-header{
+    position: absolute;
+    top: 44px;
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  .hidden{
+    visibility: hidden;
+  }
+   /* 修改mint-ui switch 的默认样式 */
+   .content-body .mint-switch-input:checked + .mint-switch-core{
+    border-color: #ff787b;
+    background-color: #ff787b;
+  }
+  .content-body .mint-switch-core{
+    width: 40px;
+    height: 22px;
+  }
+  .content-body .mint-switch-core::after{
+    width: 18px;
+    height: 18px;
+    top: 1px;
+    left: 1px;
+  }
+  .content-body .mint-switch-core::before{
+    width: 40px;
+    height: unset;
+    background-color: #d9d9d9;
+  }
+  .content-body .mint-switch-input:checked + .mint-switch-core::after{
+    transform: translateX(18px);
+  }
+  
+  input::-webkit-input-placeholder{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  input:-ms-input-placeholder{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.5);
+  }
+  input{
+    font-size: 15px;
+  }
+  .pre-wrap{
+    white-space: pre-wrap;
+  }
+  .no-data{
+    line-height: 100px;
+    text-align: center;
+  }
+  .mint-msgbox-wrapper .mint-msgbox{
+    /* max-height: 400px; */
+    background-color: #414141;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-header .mint-msgbox-title{
+    color: #fff;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-message{
+    max-height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    line-height: 1.6;
+    vertical-align: middle;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 15px;
+    height: 100%;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-message * {
+    align-items: center;
+    justify-content: center;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-btns{
+    height: 50px;
+    line-height: 50px;
+    position: relative;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-btn {
+    font-size: 15px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #414141;
+  }
+  .mint-msgbox-wrapper .mint-msgbox-content{
+    min-height: 100px;
+    max-height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .mint-msgbox-wrapper .mint-msgbox-cancel{
+    color: #999;
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .mint-msgbox-wrapper .mint-msgbox{
+    width: 75%;
+  }
+  .content-body .mint-navbar{
+    background-color: #222;
+    color: #fff;
+  }
+  
+  input:-webkit-autofill { box-shadow: 0 0 0px 1000px #f2f2f2 inset;}
+  
+  @media (device-height:480px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone4/4s */
+    .font40{
+      font-size: 21px;
+    }
+    .font36{
+      font-size: 19px;
+    }
+    .font32{
+      font-size: 17px;
+    }
+    .font28{
+      font-size: 15px;
+    }
+    .font24{
+      font-size: 13px;
+    }
+    .font20{
+      font-size: 11px;
+    }
+  }
+  @media (device-height:568px) and (-webkit-min-device-pixel-ratio:2){/* 兼容iphone5 */
+    .font40{
+      font-size: 19px;
+    }
+    .font36{
+      font-size: 17px;
+    }
+    .font32{
+      font-size: 15px;
+    }
+    .font28{
+      font-size: 13px;
+    }
+    .font24{
+      font-size: 11px;
+    }
+    .font20{
+      font-size: 11px;
+    }
+  }
+  @media(min-device-width:375px)and(max-device-width:667px)and(-webkit-min-device-pixel-ratio:2){
+  /*iphone6*/
+    
+  }
+  .bold-type{
+    font-weight: 600;
+  }
+
+
+  *::before{
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  *::after{
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
+  /* 买入卖出弹窗 */
+  .pup{
+    background: #414141;
+  }
+  .pup_btns{
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+  .pup_btns>span:first-child{
+    border-right:1px solid rgba(255,255,255,0.1);
+  }
+  .yjks_bg{
+    background: #2579d3 !important;
+  }
+  /*撤单提示弹窗*/
+  .tips{
+    background: #414141;
+    color:#fff;
+  }
+  .tips>div:nth-child(1){
+    color:#fff;
+  }
+  .tips>div:nth-child(2){
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }

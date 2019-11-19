@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="710px" height="400px" viewBox="0 0 710 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>img_bg_mine copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-5.68434189e-14" y="0" width="710" height="400" rx="8"></rect>
+    </defs>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img_bg_mine-copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Rectangle" fill="#FF787B" xlink:href="#path-1"></use>
+            <circle id="Oval" fill="#FFFFFF" opacity="0.100000001" mask="url(#mask-2)" cx="609" cy="116" r="256"></circle>
+            <circle id="Oval-Copy-8" fill="#FFFFFF" opacity="0.049999997" mask="url(#mask-2)" cx="208" cy="14" r="135"></circle>
+            <circle id="Oval-Copy-9" fill="#FFFFFF" opacity="0.0799999982" mask="url(#mask-2)" cx="25" cy="150" r="135"></circle>
+        </g>
+    </g>
+</svg>

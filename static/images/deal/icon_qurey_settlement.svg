@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_qurey_settlement</title>
+    <desc>Created with Sketch.</desc>
+    <g id="交易" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_qurey_settlement">
+            <rect id="Rectangle" x="0" y="0" width="100" height="100"></rect>
+            <rect id="Rectangle" stroke="#FF787B" stroke-width="2" fill="#FFFFFF" transform="translate(44.910567, 40.738497) rotate(-20.000000) translate(-44.910567, -40.738497) " x="12.9105667" y="20.738497" width="64" height="40" rx="4"></rect>
+            <rect id="Rectangle" stroke="#FF787B" stroke-width="2" fill="#FFEBEB" transform="translate(50.472040, 45.258901) rotate(-10.000000) translate(-50.472040, -45.258901) " x="18.4720402" y="25.2589006" width="64" height="40" rx="4"></rect>
+            <circle id="Oval" stroke="#FF787B" stroke-width="2" fill="#FFBBBD" cx="34" cy="23" r="11"></circle>
+            <path d="M36.4142136,20 L38,20 C38.5522847,20 39,20.4477153 39,21 C39,21.5522847 38.5522847,22 38,22 L35,22 L35,24 L38,24 C38.5522847,24 39,24.4477153 39,25 C39,25.5522847 38.5522847,26 38,26 L35,26 L35,29 C35,29.5522847 34.5522847,30 34,30 C33.4477153,30 33,29.5522847 33,29 L33,26 L30,26 C29.4477153,26 29,25.5522847 29,25 C29,24.4477153 29.4477153,24 30,24 L33,24 L33,22 L30,22 C29.4477153,22 29,21.5522847 29,21 C29,20.4477153 29.4477153,20 30,20 L31.5857864,20 L29.2928932,17.7071068 C28.9023689,17.3165825 28.9023689,16.6834175 29.2928932,16.2928932 C29.6834175,15.9023689 30.3165825,15.9023689 30.7071068,16.2928932 L34,19.5857864 L37.2928932,16.2928932 C37.6834175,15.9023689 38.3165825,15.9023689 38.7071068,16.2928932 C39.0976311,16.6834175 39.0976311,17.3165825 38.7071068,17.7071068 L36.4142136,20 Z" id="Combined-Shape" fill="#FF787B" transform="translate(34.000000, 23.000000) rotate(-8.000000) translate(-34.000000, -23.000000) "></path>
+            <rect id="Rectangle" stroke="#FF787B" stroke-width="2" fill="#FFFFFF" x="8" y="31" width="80" height="54" rx="4"></rect>
+            <rect id="Rectangle" fill="#FF787B" opacity="0.149999991" x="15" y="36" width="80" height="54" rx="4"></rect>
+            <rect id="Rectangle" fill="#FF787B" x="14" y="73" width="68" height="2" rx="1"></rect>
+            <rect id="Rectangle" stroke="#FF787B" stroke-width="2" fill="#FFBBBD" x="64" y="50" width="28" height="16" rx="4"></rect>
+            <rect id="Rectangle" fill="#FF787B" x="70" y="56" width="8" height="4" rx="2"></rect>
+        </g>
+    </g>
+</svg>

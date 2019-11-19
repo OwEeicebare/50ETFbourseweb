@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_mine_service</title>
+    <desc>Created with Sketch.</desc>
+    <g id="我的" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_mine_service">
+            <rect id="Rectangle" x="0" y="0" width="40" height="40"></rect>
+            <circle id="Oval" stroke="#FF787B" stroke-width="2" fill-opacity="0.15" fill="#FF787B" cx="20" cy="20" r="18"></circle>
+            <rect id="Rectangle" fill="#FF787B" x="12" y="11" width="3" height="8" rx="1.5"></rect>
+            <rect id="Rectangle-Copy-2" fill="#FF787B" x="25" y="11" width="3" height="8" rx="1.5"></rect>
+            <path d="M28,26 C23.581722,31.3333333 16.418278,31.3333333 12,26 L12,26" id="Path" stroke="#FF787B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

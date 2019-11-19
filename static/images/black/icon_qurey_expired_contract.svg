@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>icon_qurey_expired_contract</title>
+    <desc>Created with Sketch.</desc>
+    <g id="主页-黑色" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_qurey_expired_contract">
+            <rect id="Rectangle" x="0" y="0" width="100" height="100"></rect>
+            <path d="M19,84 L23,84 C24.3333333,84 25.3333333,83.5 26,82.5 C26.6666667,81.5 27,80.5 27,79.5 L27,12 L75,12 C77.209139,12 79,13.790861 79,16 L79,88 C79,90.209139 77.209139,92 75,92 L19,92 C16.790861,92 15,90.209139 15,88 L15,88 C15,85.790861 16.790861,84 19,84 Z" id="Rectangle" stroke="#FF787B" stroke-width="2"></path>
+            <rect id="Rectangle" fill="#FF787B" opacity="0.200000003" x="25" y="18" width="64" height="80" rx="4"></rect>
+            <path d="M15,88 L15,84 L15,8 C15,5.790861 16.790861,4 19,4 L23,4 C25.209139,4 27,5.790861 27,8 L27,80 C27,82.209139 25.209139,84 23,84 L19,84 C16.790861,84 15,85.790861 15,88 Z" id="Combined-Shape" stroke="#FF787B" stroke-width="2" fill-opacity="0.3" fill="#FF787B"></path>
+            <path d="M40,24 L66,24 C66.5522847,24 67,24.4477153 67,25 C67,25.5522847 66.5522847,26 66,26 L40,26 C39.4477153,26 39,25.5522847 39,25 C39,24.4477153 39.4477153,24 40,24 Z M40,34 L66,34 C66.5522847,34 67,34.4477153 67,35 C67,35.5522847 66.5522847,36 66,36 L40,36 C39.4477153,36 39,35.5522847 39,35 C39,34.4477153 39.4477153,34 40,34 Z M40,64 L43,64 C43.5522847,64 44,64.4477153 44,65 C44,65.5522847 43.5522847,66 43,66 L40,66 C39.4477153,66 39,65.5522847 39,65 C39,64.4477153 39.4477153,64 40,64 Z M63,64 L66,64 C66.5522847,64 67,64.4477153 67,65 C67,65.5522847 66.5522847,66 66,66 L63,66 C62.4477153,66 62,65.5522847 62,65 C62,64.4477153 62.4477153,64 63,64 Z M40,74 L66,74 C66.5522847,74 67,74.4477153 67,75 C67,75.5522847 66.5522847,76 66,76 L40,76 C39.4477153,76 39,75.5522847 39,75 C39,74.4477153 39.4477153,74 40,74 Z" id="Combined-Shape" fill="#FF787B"></path>
+            <circle id="Oval" stroke="#FF787B" stroke-width="2" cx="53" cy="52" r="16"></circle>
+            <rect id="Rectangle" fill="#FF787B" transform="translate(53.000000, 52.000000) rotate(-45.000000) translate(-53.000000, -52.000000) " x="52" y="36" width="2" height="32"></rect>
+        </g>
+    </g>
+</svg>
